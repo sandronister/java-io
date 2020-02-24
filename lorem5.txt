@@ -1,0 +1,3 @@
+Iniciando a escrever arquivos com Stream, está certo
+Pois bem é isso que queria ver
+Obrigado
